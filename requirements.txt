@@ -1,0 +1,9 @@
+streamlit
+langchain-groq
+langgraph
+pandas
+scikit-learn 
+xgboost 
+lightgbm 
+plotly 
+python-dotenv
